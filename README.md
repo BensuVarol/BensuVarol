@@ -46,15 +46,6 @@ Currently working on projects in medical imaging, explainable AI, and deep learn
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BensuVarol&show_icons=true&theme=default" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BensuVarol&layout=compact&theme=default" height="160"/>
-</p>
-
----
-
 ## Current Focus
 
 Building a research-oriented AI portfolio focused on:
