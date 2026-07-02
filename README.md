@@ -46,31 +46,6 @@ Currently working on projects in medical imaging, explainable AI, and deep learn
 
 ---
 
-## Featured Projects
-
-### Chest X-Ray Pneumonia Classification with Grad-CAM
-
-MobileNetV2 transfer learning model for Normal vs Pneumonia chest X-ray classification with Grad-CAM explainability.
-
-- Transfer learning with MobileNetV2
-- Fine-tuning
-- Class imbalance handling
-- Confusion matrix and classification report
-- Threshold tuning
-- Grad-CAM visualization
-
-Repository: [chest-xray-pneumonia-gradcam](https://github.com/BensuVarol/chest-xray-pneumonia-gradcam)
-
----
-
-### SOM Country Clustering
-
-Self-Organizing Map project for clustering countries based on development indicators.
-
-Repository: [som-country-clustering](https://github.com/BensuVarol/som-country-clustering)
-
----
-
 ## GitHub Stats
 
 <p align="center">
