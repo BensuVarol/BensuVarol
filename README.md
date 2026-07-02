@@ -19,6 +19,15 @@ Currently working on projects in medical imaging, explainable AI, and deep learn
 
 ---
 
+## Education & Work
+
+- MSc Student in Computer Engineering
+- Currently working as a Software Support Assistant Specialist 
+- BSc in Computer Engineering
+- BSc in Software Engineering
+
+---
+
 ## Research Interests
 
 - Medical Image Analysis
