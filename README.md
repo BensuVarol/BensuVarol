@@ -5,7 +5,7 @@
 ### MSc Computer Engineering Student | AI & Medical Imaging Enthusiast
 
 I am interested in artificial intelligence, medical image analysis, computer vision, and explainable AI.  
-Currently building a research-oriented AI portfolio focused on healthcare applications and deep learning.
+Currently working on projects in medical imaging, explainable AI, and deep learning.
 
 </div>
 
@@ -16,7 +16,6 @@ Currently building a research-oriented AI portfolio focused on healthcare applic
 - MSc Computer Engineering student
 - Interested in Medical AI, Computer Vision, and Explainable AI
 - Building projects in deep learning, healthcare AI, and applied machine learning
-- Currently improving my GitHub portfolio for research and PhD applications
 
 ---
 
